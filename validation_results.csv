@@ -1,0 +1,4 @@
+Test,Current_CPU,High_CPU_Probability,Model_Result,Lambda_Action
+Normal CPU,28,0.0,Normal,Continue Monitoring
+Rising CPU,70,0.415,Normal,Continue Monitoring
+Strong Rising CPU,75,0.7703,High CPU Risk,Preventive Maintenance Alert
